@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98b1cb3f-5e16-44ca-bc9d-257fbf6e806f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/img/notebooklogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/pdf/front-converted.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/notebooklogo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/page-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/page-6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/shrangaar-patal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/shrangaar-patal.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/dist/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/shringaarpatal/assets/img/page-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/shringaarpatal/assets/img/page-6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/shringaarpatal/assets/img/shrangaar-patal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/shringaarpatal/assets/img/shrangaar-patal.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/shringaarpatal/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/dist/shringaarpatal/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/shringaarpatal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/shringaarpatal/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/htmls/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/htmls/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
