@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98b1cb3f-5e16-44ca-bc9d-257fbf6e806f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/pdf/shringaar-patal-1.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/htmls/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/htmls/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main-es2015.306d490f9b40261bc2d1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main-es5.82c3d86da7bd4b330eac.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/shringaarpatal/assets/htmls/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/shringaarpatal/assets/htmls/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/shringaarpatal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/shringaarpatal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/shringaarpatal/main-es2015.306d490f9b40261bc2d1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/shringaarpatal/main-es5.82c3d86da7bd4b330eac.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/htmls/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/htmls/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/page-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/page-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/pdf/front-converted.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
